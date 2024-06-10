@@ -14,7 +14,9 @@
 	{"predicate": {"custom_model_data":7}, "model": "custom/teampressed"},
 	{"predicate": {"custom_model_data":8}, "model": "custom/teamnotpressed"},
 	{"predicate": {"custom_model_data":9}, "model": "custom/zonepressed"},
-	{"predicate": {"custom_model_data":10}, "model": "custom/zonenotpressed"}
+	{"predicate": {"custom_model_data":10}, "model": "custom/zonenotpressed"},
+	{"predicate": {"custom_model_data":11}, "model": "custom/trophy"}
+
 
 
 

@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:fade/dark.png",
+            "ascent": 1024,
+            "height": 2048,
+            "chars": ["\uE000"]
+        }
+    ]    
+}
