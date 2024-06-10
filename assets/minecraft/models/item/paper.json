@@ -1,0 +1,17 @@
+{
+	"parent": "item/generated",
+	"textures": {
+	"layer0": "item/paper"
+	},
+	
+	"overrides": [
+	{"predicate": {"custom_model_data":1}, "model": "custom/random"},
+	{"predicate": {"custom_model_data":2}, "model": "custom/buttonpressed"},
+	{"predicate": {"custom_model_data":3}, "model": "custom/buttonnotpressed"},
+	{"predicate": {"custom_model_data":4}, "model": "custom/ghost"},
+	{"predicate": {"custom_model_data":5}, "model": "custom/play"},
+	{"predicate": {"custom_model_data":6}, "model": "custom/settings"}
+
+
+	]
+   }
