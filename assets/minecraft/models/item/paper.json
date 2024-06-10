@@ -10,7 +10,13 @@
 	{"predicate": {"custom_model_data":3}, "model": "custom/buttonnotpressed"},
 	{"predicate": {"custom_model_data":4}, "model": "custom/ghost"},
 	{"predicate": {"custom_model_data":5}, "model": "custom/play"},
-	{"predicate": {"custom_model_data":6}, "model": "custom/settings"}
+	{"predicate": {"custom_model_data":6}, "model": "custom/settings"},
+	{"predicate": {"custom_model_data":7}, "model": "custom/teampressed"},
+	{"predicate": {"custom_model_data":8}, "model": "custom/teamnotpressed"},
+	{"predicate": {"custom_model_data":9}, "model": "custom/zonepressed"},
+	{"predicate": {"custom_model_data":10}, "model": "custom/zonenotpressed"}
+
+
 
 
 	]
