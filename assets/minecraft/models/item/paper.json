@@ -17,7 +17,20 @@
 	{"predicate": {"custom_model_data":10}, "model": "custom/zonenotpressed"},
 	{"predicate": {"custom_model_data":11}, "model": "custom/trophy"},
 	{"predicate": {"custom_model_data":12}, "model": "custom/border"},
-	{"predicate": {"custom_model_data":13}, "model": "custom/borderclosed"}
+	{"predicate": {"custom_model_data":13}, "model": "custom/borderclosed"},
+	{"predicate": {"custom_model_data":14}, "model": "custom/gamemode"},
+	{"predicate": {"custom_model_data":15}, "model": "custom/cosmetics"},
+	{"predicate": {"custom_model_data":16}, "model": "custom/gamemodeffa"},
+	{"predicate": {"custom_model_data":17}, "model": "custom/arrowgold"},
+	{"predicate": {"custom_model_data":18}, "model": "custom/arrowsilver"},
+	{"predicate": {"custom_model_data":19}, "model": "custom/gamemodeffateam"}
+
+
+
+
+	
+
+
 
 
 

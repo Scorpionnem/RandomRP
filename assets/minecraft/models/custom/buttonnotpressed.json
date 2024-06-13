@@ -44,6 +44,12 @@
 		}
 	],
 	"gui_light": "front",
+	"display": {
+		"head": {
+			"translation": [0, 22, 0],
+			"scale": [2, 2, 2]
+		}
+	},
 	"groups": [
 		{
 			"name": "group",

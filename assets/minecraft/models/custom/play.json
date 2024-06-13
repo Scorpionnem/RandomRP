@@ -1,8 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/play/play",
-		"particle": "mc:block/bookshelf"
+		"0": "item/play/play"
 	},
 	"elements": [
 		{
@@ -18,5 +17,11 @@
 				"down": {"uv": [0, 0, 16, 16], "texture": "#0"}
 			}
 		}
-	]
+	],
+	"display": {
+		"head": {
+			"translation": [0, 2.25, 0],
+			"scale": [1.09148, 1.09148, 1.09148]
+		}
+	}
 }
