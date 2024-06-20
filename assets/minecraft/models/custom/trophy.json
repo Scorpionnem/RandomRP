@@ -110,7 +110,8 @@
 			"scale": [1, 1, 0]
 		},
 		"head": {
-			"translation": [0, 14.25, 0]
+			"translation": [0, 22, 0],
+			"scale": [1.95117, 1.95117, 1.95117]
 		}
 	},
 	"groups": [
