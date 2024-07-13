@@ -6,6 +6,34 @@
             "ascent": 1024,
             "height": 2048,
             "chars": ["\uE000"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:icons/scorpionem.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE001"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:icons/refortor.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE002"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:icons/worfer.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE003"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:icons/twelfth.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE004"]
         }
     ]    
-}
+} 	
